@@ -1,0 +1,20 @@
+{
+  "name": "ha",
+  "version": "1.0.0",
+  "description": "My posh Nuxt.js project",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "ckeditor": "^4.12.1",
+    "fs-extra": "^8.1.0",
+    "nuxt": "^2.0.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {}
+}
